@@ -27,20 +27,15 @@ Now is your chance to put your creativity to the test and build the most sociall
 
 We are using **DeSo** to make a secure user authentication. DeSo is the first Layer 1 blockchain custom-built for decentralized social media applications.
 
-## 🧠 Challenges we ran into
-- Completing the project under the given time frame.
-- Some of our teammates are new to MERN, so they have to understand the bare bones of it.
-
-
 ## 🏅 Accomplishments that we're proud of
-- We are pleased that we managed our time and to complete our task swiftly and on time.
+- We are pleased that we managed our time and completed our task swiftly and on time.
 - Learning bare bones of MERN in just 24 hours.
 
 ## 📖 What we learned
 
 - Implementation of DeSo.
 - Collaboration with other developers.
-- How MERN stack works and how we can use it to make efficeint webistes.
+- How MERN stack works and how we can use it to make efficient websites.
 
 ## 🚀 What's next for ShareNcare
 - We aim to develop this platform and collaborate with Universities to make it a genuine free product that benefits everyone and introduces new features and other enhancements.
