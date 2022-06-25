@@ -1,4 +1,5 @@
 # ShareNcare
+let's build the bridge of happiness together.
 
 ## 💡 Inspiration
 There is a common problem that we hostellers or someone who does not have a permanent resident faces. it is none other than "what should we do with all these books, utensils, Furniture, etc etc?" "where should I sell all of these things, who will buy them?" "Where can I donate stuff that I no longer use?". there is another burdensome thing that students face daily since most of the students are broke they cannot afford to buy something they want. To combat this issue we developed **ShareNcare** where users can search by filter near their lodging and buy stuff they can use to set up their tiny little not-so-permanent home. On ShareNcare users can exchange things as well according to their needs. they don't have to pay a penny to buy things they need with this exchange system.
