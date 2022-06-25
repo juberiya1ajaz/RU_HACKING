@@ -10,11 +10,11 @@ export default function Home() {
 
       <div className='md:grid md:grid-cols-2 items-center pt-10'>
         <div className=''>
-          <h1 className='text-3xl md:text-6xl'>APP NAME</h1>
+          <h1 className='text-3xl md:text-6xl'>Who we are</h1>
           <p className='text-xl py-4 tracking-wider text-justify'>About the app.</p>
 
-          <Link to="/brouse">
-            <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Brouse</button>
+          <Link to="/browse">
+            <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Browse</button>
           </Link>
 
         </div>
