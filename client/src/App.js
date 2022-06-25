@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import { isAuthenticated } from "./utils/auth";
+import Main from "./container/Main";
+import Login from "./pages/Login";
 
-function App() {
+const Hero = () => {
+
+  const [auth, setAuth] = useState(isAuthenticated());
+  console.log(setAuth)
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="font-montserrat">
+      {auth ?
+        <Main />
+        :
+        <Login />
+      }
     </div>
   );
-}
+};
 
-export default App;
+export default Hero;
