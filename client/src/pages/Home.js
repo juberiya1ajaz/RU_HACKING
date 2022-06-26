@@ -10,7 +10,7 @@ export default function Home() {
         <div className="">
           <h1 className="text-3xl md:text-6xl">Who we are</h1>
           <p className="text-xl py-4 tracking-wider text-justify">
-            About the app.
+            At some point in time we students do feel guilty about our fast fashion choices, many times since we are broke we opt for fast fashion. To solve this issue as well we developed a separate portal on ShareNcare where user can donate their fast fashion clothes to anyone be it a student or an employee. Even though these are small steps toward sustainability but every step matter.
           </p>
 
           <Link to="/browse">
@@ -35,6 +35,9 @@ export default function Home() {
           </p>
           <ul className="text-xl">
             <li className="list-disc">Exchange items with others.</li>
+            <li className="list-disc">Users can donate their fast fashion clothes effectively.</li>
+            <li className="list-disc">Students can sell their things with a fellow nearby lodger.</li>
+            <li className="list-disc">Students can exchange their books, notes, and electronics by uploading their requirements.</li>
           </ul>
         </div>
       </div>
